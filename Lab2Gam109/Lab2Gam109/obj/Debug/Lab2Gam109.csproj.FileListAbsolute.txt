@@ -1,0 +1,7 @@
+D:\C2\Lab2Gam109\Lab2Gam109\bin\Debug\Lab2Gam109.exe.config
+D:\C2\Lab2Gam109\Lab2Gam109\bin\Debug\Lab2Gam109.exe
+D:\C2\Lab2Gam109\Lab2Gam109\bin\Debug\Lab2Gam109.pdb
+D:\C2\Lab2Gam109\Lab2Gam109\obj\Debug\Lab2Gam109.csproj.AssemblyReference.cache
+D:\C2\Lab2Gam109\Lab2Gam109\obj\Debug\Lab2Gam109.csproj.CoreCompileInputs.cache
+D:\C2\Lab2Gam109\Lab2Gam109\obj\Debug\Lab2Gam109.exe
+D:\C2\Lab2Gam109\Lab2Gam109\obj\Debug\Lab2Gam109.pdb
